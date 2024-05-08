@@ -5,4 +5,5 @@ Directories:
 - 00_HILActiveLearning - (Human-in-the-loop) Machine-Assisted Annotations
 - 01_MultiClassModelTraining
 - 01_SingleClassModelTraining
-- 02_GUI
+- 02_FinalModel
+- 03_GUI
