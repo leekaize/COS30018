@@ -7,3 +7,4 @@ Directories:
 - 01_SingleClassModelTraining
 - 02_FinalModel
 - 03_GUI
+- 04_Planogram
