@@ -15,7 +15,7 @@ project: null
 name: null
 exist_ok: false
 pretrained: true
-optimizer: SGD
+optimizer: auto
 verbose: true
 seed: 0
 deterministic: true
@@ -95,4 +95,4 @@ mixup: 0.0
 copy_paste: 0.0
 cfg: null
 tracker: botsort.yaml
-save_dir: runs/detect/train4
+save_dir: runs/detect/train2
